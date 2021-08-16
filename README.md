@@ -1,0 +1,1 @@
+# kube-nginx-local-volume
